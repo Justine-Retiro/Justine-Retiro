@@ -14,6 +14,4 @@ IT professional with expertise in system troubleshooting and full-stack developm
 - **Databases**: MongoDB, MySQL
 - **IT Skills**: System troubleshooting, inventory management, network patching
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justine-retiro&show_icons=true&theme=radical)](https://github.com/justine-retiro)
-
 📫 Let's connect! Open to collaborations and opportunities.
